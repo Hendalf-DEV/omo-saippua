@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/README.md">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/README.md" />
+              <option name="originalContent" value="This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).&#10;&#10;## Getting Started&#10;&#10;First, run the development server:&#10;&#10;```bash&#10;npm run dev&#10;# or&#10;yarn dev&#10;# or&#10;pnpm dev&#10;# or&#10;bun dev&#10;```&#10;&#10;Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.&#10;&#10;You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.&#10;&#10;This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.&#10;&#10;## Learn More&#10;&#10;To learn more about Next.js, take a look at the following resources:&#10;&#10;- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.&#10;- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.&#10;&#10;You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!&#10;&#10;## Deploy on Vercel&#10;&#10;The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&amp;filter=next.js&amp;utm_source=create-next-app&amp;utm_campaign=create-next-app-readme) from the creators of Next.js.&#10;&#10;Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.&#10;" />
+              <option name="updatedContent" value="# ️ THE TRASHIEST WEBSITE EVER ️&#10;&#10;Welcome to **omo-saippua** - The most gloriously terrible website on the internet!&#10;&#10;##  Features&#10;&#10;This website includes:&#10;&#10;-  **Poop cursor** - Your mouse is now a turd!&#10;-  **Rainbow animations** - Text that changes colors like it's 1999!&#10;-  **Multiple trashy pages** - Each one worse than the last!&#10;-  **Comic Sans everywhere** - The font everyone loves to hate!&#10;- ⚡ **Spinning, bouncing, blinking** - Everything moves!&#10;-  **Clashing colors** - Eye strain guaranteed!&#10;&#10;##  Pages&#10;&#10;1. ** Home** - The garbage zone entrance&#10;2. **ℹ️ About** - Learn about our terrible mission&#10;3. ** Products** - Buy fake products that don't exist&#10;4. **️ Gallery** - A collection of trash emojis&#10;5. ** Contact** - A form that goes nowhere&#10;6. ** Secret** - Click 10 times to reveal the secret&#10;7. **❌ 404** - Custom error page of chaos&#10;&#10;##  Getting Started&#10;&#10;```bash&#10;npm install&#10;npm run dev&#10;```&#10;&#10;Open [http://localhost:3000](http://localhost:3000) and prepare your eyes!&#10;&#10;## ⚠️ WARNING&#10;&#10;This website may cause:&#10;- Headaches&#10;- Eye strain&#10;- Laughter&#10;- Despair&#10;- Nostalgia for terrible 90s websites&#10;&#10;##  Technologies Used&#10;&#10;- Next.js 16&#10;- Tailwind CSS (abused beyond recognition)&#10;- React (sorry React team)&#10;- Comic Sans MS (obviously)&#10;- Pure chaos&#10;&#10;##  License&#10;&#10;All Wrongs Reserved © 1999-2099 TRASH CORP.&#10;&#10;---&#10;&#10;**Built with  and zero design skills**&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

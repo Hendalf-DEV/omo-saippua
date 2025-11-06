@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🗑️ THE TRASHIEST WEBSITE EVER 🗑️
 
-## Getting Started
+Welcome to **omo-saippua** - The most gloriously terrible website on the internet!
 
-First, run the development server:
+## 🎨 Features
+
+This website includes:
+
+- 💩 **Poop cursor** - Your mouse is now a turd!
+- 🌈 **Rainbow animations** - Text that changes colors like it's 1999!
+- 🔥 **Multiple trashy pages** - Each one worse than the last!
+- 🎪 **Comic Sans everywhere** - The font everyone loves to hate!
+- ⚡ **Spinning, bouncing, blinking** - Everything moves!
+- 🎰 **Clashing colors** - Eye strain guaranteed!
+
+## 📄 Pages
+
+1. **🏠 Home** - The garbage zone entrance
+2. **ℹ️ About** - Learn about our terrible mission
+3. **🛒 Products** - Buy fake products that don't exist
+4. **🖼️ Gallery** - A collection of trash emojis
+5. **📧 Contact** - A form that goes nowhere
+6. **🔐 Secret** - Click 10 times to reveal the secret
+7. **❌ 404** - Custom error page of chaos
+
+## 🚀 Getting Started
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) and prepare your eyes!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ⚠️ WARNING
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This website may cause:
+- Headaches
+- Eye strain
+- Laughter
+- Despair
+- Nostalgia for terrible 90s websites
 
-## Learn More
+## 🎯 Technologies Used
 
-To learn more about Next.js, take a look at the following resources:
+- Next.js 16
+- Tailwind CSS (abused beyond recognition)
+- React (sorry React team)
+- Comic Sans MS (obviously)
+- Pure chaos
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📝 License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+All Wrongs Reserved © 1999-2099 TRASH CORP.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Built with 💩 and zero design skills**
